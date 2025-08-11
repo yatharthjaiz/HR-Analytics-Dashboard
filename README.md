@@ -40,6 +40,6 @@ It consolidates employee information across various metrics such as **age, salar
 ---
 
 ## 📬 Contact
-👤 **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+👤 **Yatharth Jaiswal**  
+📧 yatharthjaiswal000@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/yatharthjaiz)  
