@@ -1,6 +1,7 @@
 # 📊 HR Analytics Dashboard
 
-![HR Analytics Dashboard]()
+![HR Analytics Dashboard](HR-Analytics-Dashboard
+/Screenshot 2025-08-11 133940.png)
 
 ## 📌 Overview
 This **HR Analytics Dashboard** is built in **Power BI** to help HR teams analyze workforce data, identify attrition patterns, and make informed decisions.  
